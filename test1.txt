@@ -1,2 +1,2 @@
-This is the line one in test1
+Changing line1
 This is second line from user1
