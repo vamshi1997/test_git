@@ -1,2 +1,2 @@
-Changing line1
+Changing line1 version2
 This is second line from user1
